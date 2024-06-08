@@ -5,4 +5,4 @@ The goal of this project is to demonstrate how to implement infinite scroll func
 Images are fetched from the Unsplash API.
 
 
-Interactivity is also added, as when hovering over an image it shows a brief description & clicking on an image it we can view it on the Unsplash website for further details.
+Interactivity is also added, as when hovering over an image it shows a brief description & clicking on an image we can view it on the Unsplash website for image details.
