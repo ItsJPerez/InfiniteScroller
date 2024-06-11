@@ -1,5 +1,3 @@
-import API_Key from 'apikey.js'
-
 let photosArray = [];
 const imgContainer = document.getElementById('image-container');
 const loader = document.getElementById('loader')
@@ -10,7 +8,7 @@ let totalImages = 0;
 
 //Unsplash API
 const count = 15;
-const apiKey = API_Key;
+const apiKey = 'vosQKpWLG2IjCev7jIGyxdBnfAnbJ6SDqthmZqZYRzw'
 const apiUrl = `https://api.unsplash.com/photos/random?client_id=${apiKey}&count=${count}`
 
 
