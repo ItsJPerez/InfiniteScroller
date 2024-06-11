@@ -23,7 +23,6 @@ function imageLoaded(){
     if(imageLoaded === totalImages){
         ready = true;
         loader.hidden = true;
-        count = 30;
     };
 };
 
